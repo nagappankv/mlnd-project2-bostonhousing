@@ -14,8 +14,10 @@ Statistics for Boston housing dataset:
 -   Model has a coefficient of determination, R^2, of 0.923.
 
 ### Learning Curves
+![alt text](https://raw.githubusercontent.com/nagappankv/mlnd-project2-bostonhousing/master/learning_curves.png)
 
 ### Complexity Curves
+![alt text](https://raw.githubusercontent.com/nagappankv/mlnd-project2-bostonhousing/master/complexity_curves.png)
 
 ### Max depth = 5
 
