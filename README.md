@@ -1,6 +1,38 @@
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
+# Project: Predicting Boston Housing Prices
+
+## Output
+### Data Exploration
+Statistics for Boston housing dataset:
+
+-   Minimum price: $105,000.00
+-   Maximum price: $1,024,800.00
+-   Mean price: $454,342.94
+-   Median price $438,900.00<br/>
+-   Standard deviation of prices: $165,171.13
+-   Model has a coefficient of determination, R^2, of 0.923.
+
+### Learning Curves
+
+### Complexity Curves
+
+### Max depth = 5
+
+### Sensitivity
+-   Trial 1: $391,183.33
+-   Trial 2: $419,700.00
+-   Trial 3: $415,800.00
+-   Trial 4: $420,622.22
+-   Trial 5: $418,377.27
+-   Trial 6: $411,931.58
+-   Trial 7: $399,663.16
+-   Trial 8: $407,232.00
+-   Trial 9: $351,577.61
+-   Trial 10: $413,700.00
+
+Range in prices: $69,044.61
+
 
 ### Install
 
